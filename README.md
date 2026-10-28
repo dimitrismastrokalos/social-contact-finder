@@ -15,17 +15,15 @@ A lightweight OSINT & lead generation tool designed to extract public social med
 
 ## ⚙️ Installation & Usage
 
-### 1. Clone this repository
-```bash
+1. Clone this repository
 git clone [https://github.com/dimitrismastrokalos/social-contact-finder.git](https://github.com/dimitrismastrokalos/social-contact-finder.git)
 cd social-contact-finder
 
 2. Install dependencies
-Bash
 pip install -r requirements.txt
 playwright install
+
 3. Run the finder
-Bash
 python main.py
 
 🔥 Get the PRO Version (Email & Multi-Platform Extractor)
