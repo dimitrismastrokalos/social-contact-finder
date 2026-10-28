@@ -29,7 +29,7 @@ python main.py
 🔥 Get the PRO Version (Email & Multi-Platform Extractor)
 Need deep contact extraction with automatic email discovery and Excel exporting?
 
-👉 Download PRO Version on Gumroad
+👉 [Download PRO Version on Gumroad](https://dimitrismastro.gumroad.com/l/social-contact-finder) 19€
 
 ⚡ PRO Features:
 📧 Automatic Email & Phone Extractor: Scrapes public emails and contact info directly from bios and landing pages.
